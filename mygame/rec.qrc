@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/background1.jpg</file>
+        <file>images/towerpos.png</file>
+        <file>images/single.png</file>
+        <file>images/leiwujie.png</file>
+        <file>images/fireball.png</file>
+        <file>../../Documents/mygame/images/end.jpg</file>
+        <file>../../Documents/mygame/images/lose.jpg</file>
+        <file>images/end.jpg</file>
+        <file>images/lose.jpg</file>
+        <file>images/select.jpg</file>
+        <file>images/dog.png</file>
+        <file>images/wskill.png</file>
+        <file>images/wuxin.png</file>
+        <file>images/xiaose.png</file>
+        <file>images/xskill.png</file>
+        <file>images/hskill.png</file>
+        <file>images/hitdog.png</file>
+        <file>images/wu.gif</file>
+        <file>images/xiao.gif</file>
+        <file>images/lei.gif</file>
+        <file>images/button.png</file>
+        <file>images/button2.png</file>
+        <file>images/button3.png</file>
+        <file>images/speed.png</file>
+        <file>images/miss.png</file>
+        <file>images/kuangbao.png</file>
+        <file>images/ice.png</file>
+        <file>images/bfix.png</file>
+        <file>images/ffix.png</file>
+        <file>images/kfix.png</file>
+        <file>images/qfix.png</file>
+        <file>images/hurt.png</file>
+        <file>images/pv.gif</file>
+        <file>images/skip.png</file>
+        <file>music/2.mp3</file>
+        <file>music/pv.mp3</file>
+    </qresource>
+</RCC>
